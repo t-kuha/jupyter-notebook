@@ -1,8 +1,10 @@
-**.DS_Store
-**.ipynb_checkpoints
-**__pycache__
-**.pyc
+*.DS_Store
+*.ipynb_checkpoints
+__pycache__
+*.pyc
 
-_tmp
+.vscode
+
+_*
 
 nn/_dataset
